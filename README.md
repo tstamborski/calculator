@@ -7,5 +7,5 @@ window (like on the Mac OS X).
 ![](screenshot-1.png)
 ![](screenshot-2.png)
 
-It is the same application which i published many years ago on CodePlex (not existing now) - It was my first finished and working (and maybe even useful)
+This is the same application which i published many years ago on CodePlex (not existing now) - It was my first finished and working (and maybe even useful)
 program, so it is important souvenir for me, to keep it here. 
